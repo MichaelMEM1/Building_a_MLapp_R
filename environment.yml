@@ -21,7 +21,8 @@ dependencies:
   - r-plotly
   - r-stringr
   - r-caret
-  - r-kernlab
+  - r-lattice 
   - r-randomforest
   - r-ellipse
+  - r-kernlab
   - urllib3
